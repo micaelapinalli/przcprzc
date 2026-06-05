@@ -9,13 +9,13 @@ body {
     justify-content: center;
     flex-direction: column;
    {
-    background-color: black; /* Cambia "black" por el color que tú quieras */
+    background-color: red; 
 }
     background-image: url('HB6YlxmXoAAySRh.jpeg');
-    background-size: cover;         /* Hace que la foto cubra toda la pantalla */
-    background-position: center;    /* Centra la imagen */
-    background-repeat: no-repeat;   /* Evita que la foto se repita como mosaico */
-    background-attachment: fixed;   /* Hace que el fondo se quede quieto al hacer scroll */
+    background-size: cover;         
+    background-position: center;    
+    background-repeat: no-repeat;   
+    background-attachment: fixed;   
 }
 
 }
