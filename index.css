@@ -1,5 +1,5 @@
 h1 {
-    background-color:red;
+    background-color:none;
     
 }
 
@@ -9,7 +9,7 @@ body {
     justify-content: center;
     flex-direction: column;
    {
-    background-color: red; 
+    background-color: none; 
 }
     background-image: url('HB6YlxmXoAAySRh.jpeg');
     background-size: cover;         
