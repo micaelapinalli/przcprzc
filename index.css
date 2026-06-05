@@ -8,7 +8,13 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    
+   
+    background-image: url('HB6YlxmXoAAySRh.jpeg');
+    background-size: cover;         /* Hace que la foto cubra toda la pantalla */
+    background-position: center;    /* Centra la imagen */
+    background-repeat: no-repeat;   /* Evita que la foto se repita como mosaico */
+    background-attachment: fixed;   /* Hace que el fondo se quede quieto al hacer scroll */
+}
 
 }
 
